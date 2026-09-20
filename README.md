@@ -1,17 +1,18 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:091E3A,25:1E3A8A,50:3B82F6,75:6366F1,100:06B6D4&height=220&section=header&text=MOHIT%20PRADHAN&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Systems%20Engineer%20%7C%20AI%20%26%20Spatial%20Vision%20Researcher%20%7C%20Windows%20Architect&descFontSize=18&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="Mohit Pradhan Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:091E3A,25:1E3A8A,50:3B82F6,75:6366F1,100:06B6D4&height=220&section=header&text=MOHIT%20PRADHAN&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Engineering%20Student%20%7C%20Systems%20%26%20OS%20Internals%20%7C%20AI%20%26%20Vision%20Researcher&descFontSize=18&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="Mohit Pradhan Header Banner"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/MOHITPRADHAN35">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Low-Level+Windows+Internals+%26+C%23+Architect;Creator+of+PeakPC+Performance+Suite;AI+%26+Spatial+Computer+Vision+Researcher;Building+High-Throughput%2C+Zero-Bloat+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Engineering+Student+%7C+Systems+%26+Software+Builder;Low-Level+Windows+Internals+%26+C%23+Developer;AI+%26+Spatial+Computer+Vision+Researcher;Creator+of+PeakPC+Performance+Suite;Actively+Seeking+Engineering+Internships+%26+Roles" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MOHITPRADHAN35&label=PROFILE%20VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING%20HARDWARE%20SYSTEMS-059669?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/FOCUS-PERFORMANCE%20%26%20VISION-4F46E5?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/ROLE-ENGINEERING%20STUDENT-0284c7?style=for-the-badge" alt="Role"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-059669?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20AI-4F46E5?style=for-the-badge" alt="Focus"/>
 </p>
 
 ---
@@ -20,21 +21,36 @@
 
 ## 👨‍💻 About Me
 
-I am a **Systems Software Engineer** and **AI/Computer Vision Researcher** passionate about low-level hardware orchestration, OS internals, and high-performance computing. I specialize in building deterministic, zero-compromise systems that interface directly with hardware firmware, kernel APIs, and deep neural vision networks.
+I am an **Engineering Student**, **Systems Software Builder**, and **AI/Computer Vision Researcher**. I bridge rigorous computer science theory with low-level hardware engineering — building deterministic, high-throughput software that interfaces directly with operating system kernels, vendor firmware, and deep neural networks.
 
 ```yaml
 identity:
   name: Mohit Pradhan
-  role: Systems & AI Software Engineer
-  passions: [Windows Internals, Hardware Orchestration, Spatial AI, High-Performance Systems]
+  classification: Engineering Student & Developer
+  core_domains: [Systems Programming, OS Internals, Hardware Orchestration, Spatial AI]
   philosophy: "Zero bloat, raw native performance, and mathematically sound architectures."
-  current_flagship: PeakPC (Universal Hardware Optimization Suite)
+  flagship_project: PeakPC (Universal Hardware Optimization Suite)
+  status: "Open to Software Engineering & Systems Internships / Collaborations"
 ```
 
-- 🔭 **Currently Engineering:** **[PeakPC](https://github.com/MOHITPRADHAN35/PeakPC)** — A universal, decoupled Windows optimization engine communicating with native WMI/ACPI Embedded Controller firmware across Lenovo, ASUS, Acer, HP, MSI, Dell, and Gigabyte.
-- 🔬 **Researching:** Spatial AI, geometric deep learning, and oriented bounding-box object detection leveraging **PyTorch** and **Kornia**.
-- ⚡ **Core Strengths:** Win32 APIs, Session 0 Windows Services, ACPI/EC firmware communication, process telemetry, and edge computer vision pipelines.
+- 🎓 **Academic Journey:** Studying Engineering with a strong focus on Computer Systems, Operating Systems, Algorithm Design, and Applied Machine Learning.
+- 🔭 **Flagship Engineering Project:** **[PeakPC](https://github.com/MOHITPRADHAN35/PeakPC)** — A universal, decoupled Windows hardware performance engine that orchestrates native ACPI/WMI firmware across 7 major PC manufacturers.
+- 🔬 **Research & Spatial AI:** Investigating geometric deep learning, oriented bounding-box (OBB) object detection, and spatial computer vision using **PyTorch** and **Kornia**.
+- ⚡ **What Drives Me:** Understanding what happens under the hood — from CPU boost registers and Embedded Controllers to GPU tensor execution.
 - 📫 **Direct Inquiries:** [`mohitpradhan5324@gmail.com`](mailto:mohitpradhan5324@gmail.com)
+
+---
+
+## 📚 Academic & Engineering Fundamentals
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Operating%20Systems-0078D4?style=flat-square&logo=windows&logoColor=white" alt="OS"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-F59E0B?style=flat-square" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Computer%20Architecture-10B981?style=flat-square" alt="Arch"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-6366F1?style=flat-square" alt="Distributed"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="DL"/>
+  <img src="https://img.shields.io/badge/Object--Oriented%20Design-512BD4?style=flat-square" alt="OOD"/>
+</p>
 
 ---
 
@@ -91,7 +107,7 @@ identity:
     <td width="50%" valign="top">
       <h3 align="center">⚡ PeakPC</h3>
       <p align="center"><b>Universal Windows Performance & Thermal Controller</b></p>
-      <p>A decoupled 3-tier architecture that interfaces directly with vendor WMI/ACPI firmware across <b>Lenovo, Acer, ASUS, HP, MSI, Dell, and Gigabyte</b>. Replaces bloated proprietary utilities with lightweight native services and transparent state telemetry.</p>
+      <p>An enterprise-grade, decoupled 3-tier architecture that interfaces directly with vendor WMI/ACPI firmware across <b>Lenovo, Acer, ASUS, HP, MSI, Dell, and Gigabyte</b>. Replaces bloated proprietary vendor utilities with lightweight native services and transparent state telemetry.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=.net&logoColor=white"/>
@@ -141,7 +157,7 @@ identity:
 
 ---
 
-## 📊 Performance & Contribution Metrics
+## 📊 Contribution & Streak Visualizer
 
 <div align="center">
   <a href="https://github.com/MOHITPRADHAN35">
@@ -151,17 +167,25 @@ identity:
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🎯 What I'm Looking For
+
+- 💼 **Internships & Co-op Roles:** Software Engineering, Systems Architecture, Windows/OS Internals, or Computer Vision / ML Engineering.
+- 🤝 **Open-Source Collaborations:** Low-level system performance tools, differentiable vision, or kernel/driver interop.
+- 💡 **Research Opportunities:** Applied Deep Learning, Spatial AI, and edge system optimizations.
+
+---
+
+## 🤝 Connect & Inquiries
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mohitpradhan5324%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitpradhan5324@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MOHITPRADHAN35-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOHITPRADHAN35)
-[![Portfolio](https://img.shields.io/badge/Portfolio-PeakPC%20Suite-0284C7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MOHITPRADHAN35/PeakPC)
+[![Featured Project](https://img.shields.io/badge/Featured%20Project-PeakPC%20Suite-0284C7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MOHITPRADHAN35/PeakPC)
 
 <br/>
 
-> *"Simplicity is a prerequisite for reliability."* — Edsger W. Dijkstra
+> *"Theory is when you know everything but nothing works. Practice is when everything works but nobody knows why. We combine theory and practice: nothing works and nobody knows why!"* — Systems Engineering Humor
 
 <br/>
 
