@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:091E3A,25:1E3A8A,50:3B82F6,75:6366F1,100:06B6D4&height=220&section=header&text=MOHIT%20PRADHAN&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=Engineering%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Gamer%20%26%20Relentless%20Tinkerer&descFontSize=17&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="Mohit Pradhan Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:091E3A,25:1E3A8A,50:3B82F6,75:6366F1,100:06B6D4&height=220&section=header&text=MOHIT%20PRADHAN&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=Engineering%20Student%20%7C%20AI%20and%20ML%20Enthusiast%20%7C%20Gamer%20and%20Relentless%20Tinkerer&descFontSize=17&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="Mohit Pradhan Header Banner"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/MOHITPRADHAN35">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Engineering+Student+%7C+AI+%26+ML+Enthusiast;Building+RAGForge+%26+Autonomous+AI+Agents;Gamer%2C+Hardware+Tweaker+%26+Curious+Hacker;PyTorch%2C+Computer+Vision+%26+Full-Stack+AI;Always+Tinkering%2C+Learning+%26+Pushing+Boundaries!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Engineering+Student+%7C+AI+and+ML+Enthusiast;Building+RAGForge+and+Autonomous+AI+Agents;Gamer%2C+Hardware+Tweaker+and+Curious+Hacker;PyTorch%2C+Computer+Vision+and+Full-Stack+AI;Always+Tinkering%2C+Learning+and+Building!" alt="Typing SVG" />
 </a>
 
 <p align="center">
