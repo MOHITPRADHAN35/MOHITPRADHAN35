@@ -77,9 +77,21 @@ identity:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">👁️ Spatial AI & Computer Vision</h3>
-      <p align="center"><b>Deep Learning & Object Detection Research</b></p>
-      <p>Research and implementation of advanced neural architectures specializing in Oriented Bounding Box (OBB) object detection, differentiable spatial transforms, and edge deployment using <b>PyTorch, Kornia, and OpenCV</b> for high-accuracy analytics.</p>
+      <h3 align="center">🚀 Contributor Engine</h3>
+      <p align="center"><b>Autonomous Open Source Scout & Pull Request Engine</b></p>
+      <p>An autonomous CLI engine that scans top AI/ML & RAG repositories (Qdrant, Chroma, LlamaIndex, LiteLLM) for unassigned, un-PR'd issues, evaluates solvability heuristics, spins up sandboxes, and prepares verified Pull Requests with zero friction.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub%20CLI-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Autonomous%20Agents-6366F1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Rich%20CLI-10B981?style=flat-square"/>
+      </p>
+      <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/contributor-engine">Explore Contributor Engine →</a></b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛰️ TRINETRA & Spatial AI</h3>
+      <p align="center"><b>Multi-Modal Orbital Debris Detection & Computer Vision</b></p>
+      <p>Research and implementation of advanced neural architectures specializing in multi-modal sensor fusion (Optical, Thermal, Radar, LiDAR), Oriented Bounding Box (OBB) object detection, and differentiable spatial transforms using <b>PyTorch, Kornia, and OpenCV</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kornia-Spatial%20AI-FF6F00?style=flat-square"/>
@@ -88,6 +100,8 @@ identity:
       </p>
       <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/IEEE-Research">Explore Research Notebooks →</a></b></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎮 PeakPC</h3>
       <p align="center"><b>Hardware Performance & Thermal Tuning Suite</b></p>
@@ -100,8 +114,23 @@ identity:
       </p>
       <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/PeakPC">Explore PeakPC Repository →</a></b></p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌿 SERENITY</h3>
+      <p align="center"><b>Fullstack Mental Health & Emotion Intelligence Suite</b></p>
+      <p>An empathetic wellbeing platform combining real-time webcam facial action unit emotion recognition, conversational mental health support, and interactive analytics to provide holistic wellness insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      </p>
+      <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/SERENITY">Explore SERENITY Repository →</a></b></p>
+    </td>
   </tr>
 </table>
+
+### 🌐 Open Source Contributions
+- 🚀 **[infiniflow/ragflow #20482](https://github.com/infiniflow/ragflow/pull/20482)** — *Optimized MySQL container healthcheck parameters in Docker Compose to eliminate ~5s startup delay across production services.*
 
 ---
 
