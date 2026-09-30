@@ -5,11 +5,10 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/MOHITPRADHAN35">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Engineering+Student+%7C+AI+and+ML+Enthusiast;Building+RAGForge+and+Autonomous+AI+Agents;Gamer%2C+Hardware+Tweaker+and+Curious+Hacker;PyTorch%2C+Computer+Vision+and+Full-Stack+AI;Always+Tinkering%2C+Learning+and+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Engineering+Student+%7C+AI+and+ML+Enthusiast;Building+RAGForge+and+Autonomous+AI+Agents;Gamer%2C+Hardware+Tweaker+and+Curious+Hacker;PyTorch%2C+Computer+Vision+and+Full-Stack+AI;Always+Tinkering%2C+Learning+and+Building!" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOHITPRADHAN35&label=PROFILE%20VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/ROLE-ENGINEERING%20STUDENT-0284c7?style=for-the-badge" alt="Role"/>
   <img src="https://img.shields.io/badge/PASSION-AI%20%2F%20ML%20%26%20GAMING-8B5CF6?style=for-the-badge" alt="Passion"/>
   <img src="https://img.shields.io/badge/MINDSET-TINKERER%20%26%20BUILDER-10B981?style=for-the-badge" alt="Mindset"/>
