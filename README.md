@@ -76,6 +76,9 @@ identity:
   <img src="https://img.shields.io/badge/Kornia-Spatial%20AI-FF6F00?style=for-the-badge" alt="Kornia"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19"/>
+  <img src="https://img.shields.io/badge/RAG%20%26%20Retrieval-8B5CF6?style=for-the-badge" alt="RAG"/>
 </p>
 
 ### ⚙️ Windows Internals & Low-Level Subsystems
@@ -153,7 +156,33 @@ identity:
       <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/kornia">Explore Kornia Fork →</a></b></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ RAGForge</h3>
+      <p align="center"><b>Evaluation-First Retrieval-Augmented Generation Platform</b></p>
+      <p>A deterministic, evidence-gated fullstack RAG platform featuring safe abstention, traceable inline citations with exact character offsets, transparent hybrid (BM25 + Dense) retrieval signals, and a reproducible offline evaluation CLI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+      <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/ragforge">Explore RAGForge Repository →</a></b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AgentForge</h3>
+      <p align="center"><b>Autonomous Software Testing & Repair Agent</b></p>
+      <p>Autonomous AI agent powered by NVIDIA Nemotron on Nebius Token Factory for intelligent test generation, AST-aware vulnerability patching, and automated bug repair.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NVIDIA%20Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLM%20Agents-8B5CF6?style=flat-square"/>
+      </p>
+      <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/AgentForge">Explore AgentForge Repository →</a></b></p>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
