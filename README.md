@@ -29,7 +29,7 @@ I’m driven by curiosity: I love to **tweak, break, benchmark, and rebuild**. W
 identity:
   name: Mohit Pradhan
   status: Engineering Student & Lifelong Learner
-  core_passions: [Artificial Intelligence, Machine Learning, RAG, Computer Vision, Gaming & PC Tweaking]
+  core_passions: [Artificial Intelligence, Machine Learning, Graph Databases & Memory, RAG, Computer Vision, Gaming & PC Tweaking]
   philosophy: "Stay curious, understand what's under the hood, and build relentlessly."
   superpowers: [Rapid learning curve, Fullstack AI integration, Performance optimization]
   interests: [Gaming, LLM Agents, PyTorch Experiments, Hardware Tuning]
@@ -48,6 +48,19 @@ identity:
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🕸️ AgentMesh</h3>
+      <p align="center"><b>Multi-Agent Persistent Memory & Context Engine (FalkorDB)</b></p>
+      <p>An active persistent-memory graph engine for autonomous multi-agent teams built natively on <b>FalkorDB</b>. Features cross-session memory recall, shared agent state (Researcher, Planner, Reviewer), automatic contradiction detection with graph linkage, and evidence-backed answers with strict graph provenance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FalkorDB-dc2626?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/@xyflow/react-FF0072?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Cypher%20Graph-8B5CF6?style=flat-square"/>
+      </p>
+      <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/agentmesh">Explore AgentMesh Repository →</a></b></p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">⚡ RAGForge</h3>
       <p align="center"><b>Evaluation-First Retrieval-Augmented Generation Platform</b></p>
@@ -145,6 +158,8 @@ identity:
   <img src="https://img.shields.io/badge/Kornia-FF6F00?style=for-the-badge" alt="Kornia"/>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" alt="YOLO"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/FalkorDB-dc2626?style=for-the-badge&logo=redis&logoColor=white" alt="FalkorDB"/>
+  <img src="https://img.shields.io/badge/Graph%20Databases-8B5CF6?style=for-the-badge" alt="Graph Databases"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
 </p>
 
@@ -197,6 +212,7 @@ identity:
 
 [![Email](https://img.shields.io/badge/Email-mohitpradhan5324%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitpradhan5324@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MOHITPRADHAN35-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOHITPRADHAN35)
+[![Featured Project](https://img.shields.io/badge/Featured%20Project-AgentMesh-dc2626?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/MOHITPRADHAN35/agentmesh)
 [![Featured Project](https://img.shields.io/badge/Featured%20Project-RAGForge-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/MOHITPRADHAN35/ragforge)
 
 <br/>
