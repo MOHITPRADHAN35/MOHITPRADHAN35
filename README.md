@@ -74,6 +74,8 @@ identity:
       </p>
       <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/ragforge">Explore RAGForge Repository →</a></b></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 AgentForge</h3>
       <p align="center"><b>Autonomous Software Testing & Vulnerability Repair Agent</b></p>
@@ -86,8 +88,6 @@ identity:
       </p>
       <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/AgentForge">Explore AgentForge Repository →</a></b></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚀 Contributor Engine</h3>
       <p align="center"><b>Autonomous Open Source Scout & Pull Request Engine</b></p>
@@ -100,6 +100,8 @@ identity:
       </p>
       <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/contributor-engine">Explore Contributor Engine →</a></b></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛰️ TRINETRA & Spatial AI</h3>
       <p align="center"><b>Multi-Modal Orbital Debris Detection & Computer Vision</b></p>
@@ -112,8 +114,6 @@ identity:
       </p>
       <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/IEEE-Research">Explore Research Notebooks →</a></b></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎮 PeakPC</h3>
       <p align="center"><b>Hardware Performance & Thermal Tuning Suite</b></p>
@@ -126,6 +126,8 @@ identity:
       </p>
       <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/PeakPC">Explore PeakPC Repository →</a></b></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌿 SERENITY</h3>
       <p align="center"><b>Fullstack Mental Health & Emotion Intelligence Suite</b></p>
@@ -137,6 +139,18 @@ identity:
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       </p>
       <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35/SERENITY">Explore SERENITY Repository →</a></b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔮 More Explorations & Labs</h3>
+      <p align="center"><b>Hackathons, Research & Open Source Sandboxes</b></p>
+      <p>Continuous experimentation with agentic memory architectures, graph databases, local model quantization, and novel computer vision paradigms. Always tinkering, learning, and shipping!</p>
+      <p>
+        <img src="https://img.shields.io/badge/Open%20Source-10B981?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Graph%20Databases-8B5CF6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Benchmarking-FF6F00?style=flat-square"/>
+      </p>
+      <p>🔗 <b><a href="https://github.com/MOHITPRADHAN35?tab=repositories">Explore All Repositories →</a></b></p>
     </td>
   </tr>
 </table>
